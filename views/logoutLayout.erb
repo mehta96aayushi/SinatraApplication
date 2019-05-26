@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"> 
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/style.scss">
+    <title>
+      <%= "Student Information System" || @title %>
+    </title>
+  </head>
+  <body>
+    <header>
+      <h1>Student Information System</h1>
+      <%=erb :logoutNavigation%>
+      <%= yield%>
+    </header>
+  </body>
+</html>
