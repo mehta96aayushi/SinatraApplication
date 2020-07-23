@@ -1,5 +1,4 @@
-Name: Aayushi Mehta
-SCU ID: W1549753
+Author: Aayushi Mehta
 
 Website URL: https://aayushisinatraapplication.herokuapp.com/
 
